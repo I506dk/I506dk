@@ -1,7 +1,7 @@
 - 👋 The name's @I506dk, but most just call me I5.
 - 👀 Mainly interested cybersecurity, hacking, and coding.
 - 🌱 Always learning something new.
-- 💞️ I'm a simple person, I just want to make the world a better place.
+- 💞️ I'm a simple person, I just want to make the world a better place, one line of code at a time.
 
 
 <!---
