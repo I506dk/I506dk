@@ -40,7 +40,7 @@ So never stop learning or exploring, and you'll be on your way.
 
 ![Hacking_Crime](https://user-images.githubusercontent.com/33561466/137064177-bedcbd5a-09b4-46a5-9d9e-5a18057edab9.png)
 
-> I mean ***after all, We're all alike.***
+> ### I mean, *after all... We're all alike...*
 
 Stay safe out there! - i5
 
