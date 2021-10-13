@@ -50,7 +50,7 @@ Stay safe out there! - i5
 - Get Some Sleep... :zzz:
 
 ## Contributions? Never heard of em.
-![snake gif](https://github.com/I506dk/I506dk/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/I506dk/I506dk/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 I506dk/I506dk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
