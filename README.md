@@ -1,6 +1,6 @@
 # The name's i506dk :wave:
 
-## Coding, hacking, pentesting, breaking things? It's all part of the bigger picture.
+### Coding, hacking, pentesting, breaking things? It's all part of the bigger picture.
 
 ![Yeet](https://raw.githubusercontent.com/ParrotSec/parrot-wallpapers/master/backgrounds/parrot-splash.jpg "i506dk")
 
