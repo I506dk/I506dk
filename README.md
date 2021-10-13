@@ -50,7 +50,7 @@ Stay safe out there! - i5
 - Get Some Sleep... :zzz:
 
 
-## Contributions? Never heard of em.
+## Contributions? Never heard of em. :snake:
 ![snake gif](https://github.com/I506dk/I506dk/blob/output/github-contribution-grid-snake.svg)
 
 <!---
