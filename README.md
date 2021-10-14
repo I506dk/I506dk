@@ -8,10 +8,8 @@
 I'm a simple person, ***I just want to make the world a better place... One line of code at a time.***
 
 My focus tends to revolve around automation. Automating defenses or automating exploits? That just depends on the day.
-
 I have a lot of interest in Neural Networks, AI, and combining them with the cybersecurity world.
-
-Generally you can find me behind a computer screen using notepad++ and drinking lots of Caffeine...
+And generally speaking, you can find me behind a computer screen using notepad++ and drinking lots of Caffeine...
 
 ## Repositories Worth Checking Out...
 Here are a few repos that I have found useful, definitely worth looking at.
