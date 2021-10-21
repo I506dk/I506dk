@@ -34,6 +34,8 @@ There are tons of other great resources out there, you just have to look for the
 ## Stats
 [![I506dk's GitHub stats](https://github-readme-stats.vercel.app/api?username=I506dk&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![I506dk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=I506dk&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Food for thought...
 Hacking is an art, something that takes time to learn and perfect. And there is always something new to learn...
 But the important part is how you think, not how much you know. Leave no stone unturned, and I guarantee you, you'll find something under one of them.
