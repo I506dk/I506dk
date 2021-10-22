@@ -28,6 +28,7 @@ incident response, vulnerability research, exploit development, and reverse engi
 - [Caldera](https://github.com/mitre/caldera) - A scalable automated adversary emulation platform developed by Mitre
 - [Pentest-Tools](https://github.com/S3cur3Th1sSh1t/Pentest-Tools) - A collection of tools for pentesting, well everything
 - [Nettacker](https://github.com/OWASP/Nettacker) - An automated pentesting framework developed by OWASP
+- [Proof-of-Concept Exlpoits](https://github.com/nomi-sec/PoC-in-GitHub) - A massive collection of PoC Exploits from all over Github
 
 There are tons of other great resources out there, you just have to look for them!
 
