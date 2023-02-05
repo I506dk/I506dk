@@ -15,8 +15,6 @@ And generally speaking, you can find me behind a computer screen using notepad++
 Here are a few repos that I have found useful, definitely worth looking at.
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Dedicated to everything payloads
-- [The-Art-Of-Hacking](https://github.com/The-Art-of-Hacking/h4cker) - A collection of resources related to ethical hacking / pentesting, digital forensics, 
-incident response, vulnerability research, exploit development, and reverse engineering
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - An NSA tool for reverse engineering
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - The infamous swiss army knife of pentesting
 - [Active-Directory-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - All things Active Directory
@@ -29,7 +27,9 @@ incident response, vulnerability research, exploit development, and reverse engi
 <!-- - [CMSmap](https://github.com/Dionach/CMSmap) - An automated scanner for detecting flaws in Content Management Systems
 - [Bitleaker](https://github.com/kkamagui/bitleaker) - A tool for decrypting partitions locked by bitlocker
 - [Splunk Attack Range](https://github.com/splunk/attack_range_local) - A detection development platform speficially designed for Splunk
-- [Black Hat Python](https://github.com/EONRaider/blackhat-python3) - Source code for the Black Hat Python book -->
+- [Black Hat Python](https://github.com/EONRaider/blackhat-python3) - Source code for the Black Hat Python book
+- [The-Art-Of-Hacking](https://github.com/The-Art-of-Hacking/h4cker) - A collection of resources related to ethical hacking / pentesting, digital forensics, 
+incident response, vulnerability research, exploit development, and reverse engineering -->
 
 There are tons of other great resources out there, you just have to look for them!
 
