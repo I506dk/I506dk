@@ -20,16 +20,16 @@ incident response, vulnerability research, exploit development, and reverse engi
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - An NSA tool for reverse engineering
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - The infamous swiss army knife of pentesting
 - [Active-Directory-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - All things Active Directory
-- [CMSmap](https://github.com/Dionach/CMSmap) - An automated scanner for detecting flaws in Content Management Systems
 - [Exploits](https://github.com/H1R0GH057/Anonymous) - An implementation of many common exploits
 - [Building-A-Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#AD) - All things homelab
-- [Bitleaker](https://github.com/kkamagui/bitleaker) - A tool for decrypting partitions locked by bitlocker
 - [Caldera](https://github.com/mitre/caldera) - A scalable automated adversary emulation platform developed by Mitre
 - [Pentest-Tools](https://github.com/S3cur3Th1sSh1t/Pentest-Tools) - A collection of tools for pentesting, well everything
 - [Nettacker](https://github.com/OWASP/Nettacker) - An automated pentesting framework developed by OWASP
 - [Proof-of-Concept Exlpoits](https://github.com/nomi-sec/PoC-in-GitHub) - A massive collection of PoC Exploits from all over Github
+<!-- - [CMSmap](https://github.com/Dionach/CMSmap) - An automated scanner for detecting flaws in Content Management Systems
+- [Bitleaker](https://github.com/kkamagui/bitleaker) - A tool for decrypting partitions locked by bitlocker
 - [Splunk Attack Range](https://github.com/splunk/attack_range_local) - A detection development platform speficially designed for Splunk
-- [Black Hat Python](https://github.com/EONRaider/blackhat-python3) - Source code for the Black Hat Python book
+- [Black Hat Python](https://github.com/EONRaider/blackhat-python3) - Source code for the Black Hat Python book -->
 
 There are tons of other great resources out there, you just have to look for them!
 
